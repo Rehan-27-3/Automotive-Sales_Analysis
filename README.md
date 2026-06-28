@@ -17,12 +17,12 @@ An interactive Business Intelligence dashboard designed to track global e-commer
 
 ## 🚀 Key Insights & Features
 
-### 📦 Product Analysis (`Screenshot 2026-06-15 180152.png`)
+### 📦 Product Analysis 
 *   **Core Metrics:** Tracks crucial performance indicators including total quantity ordered (**2,996 units**), total overall profit (**$1.65M**), and average profit margin (**$15.01K**).
 *   **Profitability vs. Volume:** Identifies high-margin vintage/classic models (like the *1952 Alpine Renault*) compared against high-volume orders (like the *1992 Ferrari 360 Spider*).
 *   **Product Line Distribution:** Showcases inventory demand via share breakdown, establishing *Classic Cars* (37.8%) and *Vintage Cars* (24.6%) as the business's core revenue engines.
 
-### 💰 Revenue Analysis (`Screenshot 2026-06-15 180218.png`)
+### 💰 Revenue Analysis 
 *   **Financial Health KPIs:** Summarizes total revenue (**$9.6M**), average transaction revenue (**$3.21K**), and operational fulfillment rates with a **92.94% Shipped Order Rate**.
 *   **Geographic Breakdown:** Maps out top-performing countries and cities, establishing the *USA* and cities like *Madrid* and *San Rafael* as primary regional hubs.
 *   **Temporal & Cyclical Trends:** Visualizes revenue fluctuations month-over-month alongside a quarterly pie chart revealing that **Qtr 4** yields the highest revenue weight at **41.78% ($3.7M)**.
@@ -33,7 +33,7 @@ An interactive Business Intelligence dashboard designed to track global e-commer
 
 *   **Data Visualization & Analytics:** Power BI Desktop
 *   **Data Modeling & Expressions:** DAX (Data Analysis Expressions) for time intelligence and financial metrics
-*   **Data Source:** [Mention your dataset source here, e.g., ClassicModels SQL Database / Kaggle]
+*   **Data Source:** Kaggle
 *   **Core Architecture:** Interactive Slicers (Yearly filter), Multi-Page Navigation, Clean UI/UX Layouts
 
 ---
